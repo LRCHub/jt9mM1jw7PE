@@ -1,0 +1,184 @@
+{
+  "version": 1,
+  "base_track": "C-walk - In Paris",
+  "base_artist": "0legacy23",
+  "createdAt": "2025-12-01T06:08:45.371420Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "C-Walk",
+      "artist": "Kurupt",
+      "has_synced": true,
+      "path": "select/01_C-Walk_Kurupt.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "C-Walk",
+      "artist": "Kurupt feat. Tray Dee & Slip Capone",
+      "has_synced": false,
+      "path": "select/02_C-Walk_Kurupt_feat._Tray_Dee_&_Slip_Capone.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "C-Walk (feat. Tray Deee & Slip Capone)",
+      "artist": "Kurupt",
+      "has_synced": false,
+      "path": "select/03_C-Walk_(feat._Tray_Deee_&_Slip_Capone)_Kurupt.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "C Walk",
+      "artist": "Navaan Sandhu",
+      "has_synced": true,
+      "path": "select/04_C_Walk_Navaan_Sandhu.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "C-Walk (feat. Tray Dee & Slip Capone)",
+      "artist": "Kurupt",
+      "has_synced": false,
+      "path": "select/05_C-Walk_(feat._Tray_Dee_&_Slip_Capone)_Kurupt.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "C‐Walk",
+      "artist": "Kurupt",
+      "has_synced": false,
+      "path": "select/06_C‐Walk_Kurupt.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "C-Walk",
+      "artist": "Kurupt/Slip Capone/Tray Dee",
+      "has_synced": false,
+      "path": "select/07_C-Walk_Kurupt_Slip_Capone_Tray_Dee.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "C-Walk",
+      "artist": "Kurupt feat. Tray Deee & Slip Capone",
+      "has_synced": false,
+      "path": "select/08_C-Walk_Kurupt_feat._Tray_Deee_&_Slip_Capone.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "C Walk (Feat. Slip Capone & Tray Dee)",
+      "artist": "Kurupt",
+      "has_synced": false,
+      "path": "select/09_C_Walk_(Feat._Slip_Capone_&_Tray_Dee)_Kurupt.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "C Walk",
+      "artist": "Navaan Sandhu (RiskyjaTT.CoM)",
+      "has_synced": true,
+      "path": "select/10_C_Walk_Navaan_Sandhu_(RiskyjaTT.CoM).lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "C WALK INTERLÚDIO",
+      "artist": "Big Rush",
+      "has_synced": true,
+      "path": "select/11_C_WALK_INTERLÚDIO_Big_Rush.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "C Walk",
+      "artist": "Borges",
+      "has_synced": true,
+      "path": "select/12_C_Walk_Borges.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "C Walk 2",
+      "artist": "Borges",
+      "has_synced": false,
+      "path": "select/13_C_Walk_2_Borges.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "C-Walk",
+      "artist": "Kurupt feat. Big Tray Deee & Slip Capone",
+      "has_synced": false,
+      "path": "select/14_C-Walk_Kurupt_feat._Big_Tray_Deee_&_Slip_Capone.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "C-Walk (feat. Tray Dee & Slip Capone)",
+      "artist": "Kurupt",
+      "has_synced": false,
+      "path": "select/15_C-Walk_(feat._Tray_Dee_&_Slip_Capone)_Kurupt.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "C-Walk",
+      "artist": "Kurupt",
+      "has_synced": false,
+      "path": "select/16_C-Walk_Kurupt.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Borges - C WALK 2 feat. BIN & Big Rush (prod. Vilão)",
+      "artist": "Borges",
+      "has_synced": true,
+      "path": "select/17_Borges_-_C_WALK_2_feat._BIN_&_Big_Rush_(prod._Vilão)_Borges.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "C-Walk",
+      "artist": "Kurupt",
+      "has_synced": false,
+      "path": "select/pl_01_C-Walk_Kurupt.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "C-Walkin",
+      "artist": "Kurupt",
+      "has_synced": false,
+      "path": "select/pl_02_C-Walkin_Kurupt.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "C-Walk",
+      "artist": "Kurupt",
+      "has_synced": false,
+      "path": "select/pl_03_C-Walk_Kurupt.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "C-Walkin' Cha Cha Cha",
+      "artist": "Kurupt",
+      "has_synced": false,
+      "path": "select/pl_04_C-Walkin'_Cha_Cha_Cha_Kurupt.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "C-Walkin Cha Cha Cha",
+      "artist": "Kurupt",
+      "has_synced": false,
+      "path": "select/pl_05_C-Walkin_Cha_Cha_Cha_Kurupt.txt"
+    }
+  ]
+}
